@@ -1,0 +1,84 @@
+
+.menu a:hover
+{
+    background-color:goldenrod;
+   color: violet;
+}
+.menu a:active
+{
+    background-color:tomato;
+    color: teal;
+}
+nav
+{
+    background-color: black;
+}
+#d1
+{
+    font-weight: bold;
+    background-color: black;
+}
+.remain
+{
+    padding-top: 20px;
+    text-align: center;
+  
+}
+.remain i.fa{
+    font-size: 70px;
+    color:tomato;
+}
+.remain p{
+    text-align: justify;
+    color:green;
+    
+}
+.remain h2
+{
+    color:teal;
+}
+#footer{ 
+    padding-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+ 
+}
+body{
+     background-image: url("./b1.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.banner
+{
+    color: white;
+    margin-top: 100px;
+}
+.anchor a
+{
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+ }
+ .anchor a:hover
+ {
+     color: red;
+ }
+ .para p
+ {
+     text-align: justify;
+ }
+#pd1
+{
+    color: white;
+  padding-top: 20px;
+}
+.pd2
+{
+    padding-top: 30px;
+}
+#cd1
+{
+    color: white;
+    padding-top: 150px;
+}
